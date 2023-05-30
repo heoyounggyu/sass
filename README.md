@@ -29,4 +29,33 @@
 ![image](https://github.com/heoyounggyu/sass/assets/129017041/bc4addc8-f90b-4548-b802-36f5c154af8b)
 
 #주석 처리 방법
+
+//주석처리방법은  css로 컴파일 되지 않는다
+
+/**/주석처리 방법은 css로 컴파일되어 나타남
+
 ![image](https://github.com/heoyounggyu/sass/assets/129017041/4eb950af-d331-4fcf-8f07-6784c3ff592f)
+
+#변수 만들기 --->  $로 시작함,(영문, 숫자, -,_)만 사용할수 있음. 숫자로 시작할수 없음
+
+![image](https://github.com/heoyounggyu/sass/assets/129017041/cd45391b-0610-42ae-a98f-7194a74307c4)
+
+
+#partlals(파샹)
+  관련된것끼지 묶어서 분리 소스에 반복되는 부분들을 분리 분산시켜서 모듈화 시키는기능
+  partlals의 파일명은 _로 시작하며
+  
+  불러들할때는 @import '파일명' 이때 파일명에 _는 포함시키지 않고 확장명도 포함시키지 않는다
+  
+  scss는 _로 시작하는 파일은 컴파일하지 않는다
+  
+  ![image](https://github.com/heoyounggyu/sass/assets/129017041/64dd61c1-a103-466b-af98-f9f4991e02e8)
+
+  
+  
+  
+
+
+
+
+
