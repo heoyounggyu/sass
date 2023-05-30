@@ -27,3 +27,6 @@
 # scss파일이 있는 폴더의 상위요소에 생성
 
 ![image](https://github.com/heoyounggyu/sass/assets/129017041/bc4addc8-f90b-4548-b802-36f5c154af8b)
+
+#주석 처리 방법
+![image](https://github.com/heoyounggyu/sass/assets/129017041/4eb950af-d331-4fcf-8f07-6784c3ff592f)
