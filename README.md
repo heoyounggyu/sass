@@ -58,7 +58,9 @@
 
 # @use  --> 변수이름이 같을때 에러발생. @use를 사용할때는 앞에 파일명에 추가해서 파일명, 변수명
 
-![image](https://github.com/heoyounggyu/sass/assets/129017041/1581f15b-7db7-4bf0-bb7c-0962e563a426)
+![image](https://github.com/heoyounggyu/sass/assets/129017041/4b541fb5-fa3d-43f2-a526-ff7d7a5740f5)
+
+
 
   
   
