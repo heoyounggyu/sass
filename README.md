@@ -71,8 +71,9 @@
 ![image](https://github.com/heoyounggyu/sass/assets/129017041/432cc83e-5f6e-4b6c-a216-15139bcd19d4)
 
   
+ # *(와일드카드)를 붙이면 이름을 생략할수 있음
   
-  
+![image](https://github.com/heoyounggyu/sass/assets/129017041/d9032164-cfeb-4380-9051-526e43c3c508)
 
 
 
